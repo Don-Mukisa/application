@@ -29,6 +29,9 @@ ALLOWED_HOSTS = [
     'don-pzdfac7fqq-uc.a.run.app',
 ]
 
+CSRF_TRUSTED_ORIGINS =[
+    'https://don-pzdfac7fqq-uc.a.run.app/','https://127.0.0.1'                 
+]
 
 # Application definition
 
