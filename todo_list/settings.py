@@ -30,7 +30,7 @@ ALLOWED_HOSTS = [
 ]
 
 CSRF_TRUSTED_ORIGINS =[
-    'https://don-pzdfac7fqq-uc.a.run.app/','https://127.0.0.1'                 
+    'https://don-pzdfac7fqq-uc.a.run.app','https://127.0.0.1'                 
 ]
 
 # Application definition
